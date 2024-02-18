@@ -1,4 +1,4 @@
-Welcome to Franco, Arkar, and Shahriar's 2024 Hack(Her)413 Project! We built a NodeJS and React real-time chat application. Our app supports group, 1-on-1 chats, real-time messaging, and image and file support. Due to the chatengine.io API being locked behind a paywall, the application may or may not function once the free trial ends.
+Welcome to Franco, Arkar, and Shahriar's 2024 Hack(Her)413 Project! We built a NodeJS and React real-time chat application. Our app supports group, 1-on-1 chats, real-time messaging, and image and file support. Note: Due to the chatengine.io API being locked behind a paywall, the application may or may not function once the free trial ends.
 
 
 
