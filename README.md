@@ -2,6 +2,7 @@ Welcome to Franco, Arkar, and Shahriar's 2024 Hack(Her)413 Project! We built a N
 
 
 
+
 Instructions on running/hosting local: 
 
 Open terminal: 1) enter the frontend directory "cd frontend", 2) run "npm install vite --save-dev" 3) run "npm run dev"
